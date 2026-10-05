@@ -1,1 +1,2 @@
-document.getElementById('message').textContent = 'Version 1 — test du lien';
+document.getElementById("message").textContent =
+  "Version 2 — modification test réussie !";
